@@ -1,0 +1,29 @@
+﻿# Build files
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle
+/gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
